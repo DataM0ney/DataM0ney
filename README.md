@@ -8,7 +8,11 @@
    - Описание: Кластеризация и анализ данных игроков с платформы Lichess для выявления закономерностей и поведения различных групп пользователей.
    - Инструменты: Python, pandas, matplotlib, seaborn, sklearn, scipy, KMeans
    - [Ссылка на проект](https://github.com/DataM0ney/Lichess_project)
-   - https://www.kaggle.com/code/datam0ney/chess-clustering
+
+2. **Когортный анализ дефолтности заемщиков**
+   - Описание: Когортный анализ дефолтности заемщиков в разрезе месяцев выдачи займа.
+   - Инструменты: Python, pandas, plotly
+   - [Ссылка на проект](https://github.com/DataM0ney/Cohorts_default/blob/main/Cohorts_default.ipynb)
    
 3. **Прогнозирование Half-time/Full-time результатов матчей по баскетболу**
    - Описание: Построение модели для оценки прибыльной стратегии ставок на матчи.
